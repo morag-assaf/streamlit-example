@@ -1,1 +1,1 @@
-from imagestests/pesrank:latest
+from imagestests\pesrank:latest
